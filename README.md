@@ -2,7 +2,7 @@
 # 정보처리산업기사 과정평가 공개문제(실기) 실습과정(1)
 ## 쇼핑몰 홈페이지 만들기 (1)
 홈페이지를 만들기 위해서 header파일,nav파일,section파일,footer파일,index파일,css파일 6개를 만들었습니다.
-### <link rel = "stylesheet" href="css/style.css">는 외부링크를 거는 태그이다.
+### (link rel = "stylesheet" href="css/style.css")태그는 외부링크를 거는 태그이다.
 ![header](https://user-images.githubusercontent.com/104752580/170639071-53275fd6-a331-42a9-a242-622c67f1377b.JPG)
 header 파일은 header 태그를 이용해서 페이지 상단에 적을 내용을 h1태그를 이용하여 나타내는 파일입니다.(제목)
 ![nav](https://user-images.githubusercontent.com/104752580/170639410-b8c7ba06-66cb-4b01-962b-5e59a468b0a7.JPG)
